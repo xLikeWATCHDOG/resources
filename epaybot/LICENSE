@@ -1,9 +1,18 @@
-version=0.0.1
+version=0.0.2
 
-LICENSE
+ePayBot Terms and Conditions of Use
 
-This is about the license of the ePayBot software.
+Welcome to ePayBot, a derivative of Payment Functions for specific online communication platforms and website back-end functions. Please read and agree to the following terms and conditions before using ePayBot:
 
-TODO
+Nature of the Software and Scope of Use
+ePayBot is a recreational project designed to provide users with a convenient payment function. The Software is intended to be used only within the scope permitted by law, and any use beyond the scope permitted by law is strictly prohibited. Users are responsible for ensuring that their use of the software complies with relevant laws and regulations.
 
-license=false
+Disclaimer of Liability
+Any legal liability arising from the use of ePayBot is the sole responsibility of the user. The author of the software is not responsible for any legal issues arising from the use of the software. Users should have a legal operating licence and ensure that they use the software in accordance with the law.
+
+Disclaimer of Scope of Services
+The services provided by ePayBot are in principle limited to the extent permitted by law. Users should ensure that their operations do not violate local laws and regulations, otherwise the author shall not be held responsible for any consequences arising from the use of ePayBot.
+
+By using ePayBot, you confirm that you understand and agree to abide by the above terms. We strongly recommend that you consult a legal expert to ensure full compliance before using this software.
+
+licence=false
