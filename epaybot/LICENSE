@@ -1,18 +1,24 @@
-version=0.0.3
+version=0.0.4
 
 ePayBot Terms and Conditions of Use
 
-Welcome to ePayBot, a derivative of Payment Functions for specific online communication platforms and website back-end functions. Please read and agree to the following terms and conditions before using ePayBot:
+Welcome to ePayBot, a derivative of payment functionality for specific online communication platforms and website back-end functions. Please read and agree to the following terms and conditions before using ePayBot:
 
-Nature of the Software and Scope of Use
-ePayBot is a recreational project designed to provide users with a convenient payment function. The Software is intended to be used only within the scope permitted by law, and any use beyond the scope permitted by law is strictly prohibited. Users are responsible for ensuring that their use of the software complies with relevant laws and regulations.
+1. Nature of the Software and Scope of Use
+ePayBot is a recreational project designed to provide users with a convenient payment function. This software is to be used only within the scope permitted by law, and any behaviour beyond the scope permitted by law is strictly prohibited. Users must ensure that their use of this software complies with relevant laws and regulations. Any legal responsibility arising from the use of this software shall be borne by the users themselves, and the author shall not be responsible for any legal issues arising therefrom.
 
-Disclaimer of Liability
-Any legal liability arising from the use of ePayBot is the sole responsibility of the user. The author of the software is not responsible for any legal issues arising from the use of the software. Users should have a legal operating licence and ensure that they use the software in accordance with the law.
+2. Bugs and Liability Statement
+Bugs may occur during the use of ePayBot, and the user should be aware that the author of the software will not be held responsible for any irreversible effects of such bugs on the production environment. If the user discovers a serious bug, he/she is obliged to provide timely feedback to the developer in order to help improve the quality of the software.
 
-Disclaimer of Scope of Services
-The services provided by ePayBot are in principle limited to the extent permitted by law. Users should ensure that their operations do not violate local laws and regulations, otherwise the author shall not be held responsible for any consequences arising from the use of ePayBot.
+3. Version Update and Maintenance
+In order to ensure the stability and security of the software, users should regularly update ePayBot to the latest version in response to the developer's update submissions to avoid the risks associated with using outdated versions.
 
-By using ePayBot, you confirm that you understand and agree to abide by the above terms. We strongly recommend that you consult a legal expert to ensure full compliance before using this software.
+4. Reverse Engineering Prohibition
+Reverse engineering of any kind is strictly prohibited! Users are not allowed to decompile, disassemble or reverse engineer ePayBot to any extent. In case of violation, the developer reserves the right to pursue legal responsibility.
+
+5. Source Code Purchase and Confidentiality Obligations
+If you wish to purchase the source code of ePayBot, you must contact the developer through official channels. After acquiring the source code, the user must bear strict confidentiality obligations, and any modification of the source code must be shared with the developer, and may not be sold twice or distributed in other forms.
+
+By using ePayBot, you confirm that you understand and agree to abide by the above terms. We recommend that you consult a legal expert to ensure full compliance before using the Software.
 
 license=false
