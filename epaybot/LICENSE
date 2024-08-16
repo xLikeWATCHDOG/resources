@@ -1,4 +1,4 @@
-version=0.0.2
+version=0.0.3
 
 ePayBot Terms and Conditions of Use
 
@@ -14,5 +14,3 @@ Disclaimer of Scope of Services
 The services provided by ePayBot are in principle limited to the extent permitted by law. Users should ensure that their operations do not violate local laws and regulations, otherwise the author shall not be held responsible for any consequences arising from the use of ePayBot.
 
 By using ePayBot, you confirm that you understand and agree to abide by the above terms. We strongly recommend that you consult a legal expert to ensure full compliance before using this software.
-
-licence=false
