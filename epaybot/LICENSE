@@ -1,0 +1,27 @@
+version=0.0.5
+
+{PROJECT} 使用条款与声明
+
+欢迎使用 {PROJECT}，{INTRODUCTION}。使用 {PROJECT} 前，请仔细阅读并同意以下条款：
+
+1. 软件性质与使用范围
+{PROJECT} 是一个{SOFTWARE_PURPOSE}的项目，旨在为用户提供{FEATURES}。本软件仅在{LEGAL_SCOPE}的范围内使用，任何超出该范围的行为均被禁止。用户在使用本软件时，须确保其使用符合相关法律法规的要求，因使用本软件产生的任何法律责任由用户自行承担，{DEVELOPER}不对因此引发的法律问题负责。
+
+2. BUG与责任声明
+在使用 {PROJECT} 过程中，可能会出现{POTENTIAL_ISSUES}。用户应认识到，若这些问题对{ENVIRONMENT}造成了不可逆的影响，{DEVELOPER}不承担任何责任。若用户发现{ISSUE_SEVERITY}，有义务及时向{CONTACT_METHOD}反馈，以帮助改进软件的质量。
+
+3. 版本更新与维护
+为了确保软件的{STABILITY_AND_SECURITY}，用户应定期将 {PROJECT} 升级到最新版本，以响应{DEVELOPER}的更新提交，避免因使用过时版本而带来的{RISKS}。
+
+4. 逆向工程禁止
+任何形式的逆向工程行为都是{REVERSE_ENGINEERING_POLICY}！用户不得对 {PROJECT} 进行任何程度的反编译、反汇编或其他形式的逆向工程。如有违反，{DEVELOPER}将保留追究法律责任的权利。
+
+5. 源码购买与保密义务
+若用户有意愿购买 {PROJECT} 的源码，必须通过{OFFICIAL_CHANNELS}联系{DEVELOPER}进行购买。在获得源码后，用户必须承担严格的保密义务，任何对源码的修改须与{DEVELOPER}共享，并且不得二次售卖或以其他形式分发。
+
+6. 受用群体
+本软件设计初衷是提供{TARGET_AUDIENCE}使用，{EXCLUDED_AUDIENCE}用户严禁使用本软件以及相关功能。如有违反，{DEVELOPER}不承担任何法律责任。
+
+通过使用 {PROJECT}，您已确认理解并同意遵守上述条款。我们建议您在使用本软件前，咨询法律专家以确保完全合规。
+
+license=false
